@@ -17,6 +17,7 @@ Machine learning for Earth Sciences F2022-S2023 by [Mikhail Krinitskiy](https://
 | ДЗ №1 | 20.09.2022<br />deadline: **28.10.2022** | Реализация однослойной линейной нейросети на numpy | [Описание ДЗ и данные](https://github.com/MKrinitskiy/ML4ES2-F2022-S2023/tree/master/HW01)<br />[LEADERBOARD](https://github.com/MKrinitskiy/ML4ES2-F2022-S2023/blob/main/HW01/README.md) |
 | Лекция 2 | 04.10.2022 | Градиентная оптимизация параметрических моделей МО:<br />метод градиентного спуска, метод стохастического градиентного спуска | [видеозапись](https://ml4es.ru/links/ML4ES2-Lect02)<br />[материалы занятия](https://github.com/MKrinitskiy/ML4ES2-F2022-S2023/tree/master/Lect02) |
 | Лекция 3 | 14.10.2022 | Градиентная оптимизация.<br />Метод обратного распространения ошибки для вычисления градиента сложной функции | [видеозапись](https://ml4es.ru/links/ML4ES2-Lect03)<br />[материалы занятия](https://github.com/MKrinitskiy/ML4ES2-F2022-S2023/tree/master/Lect03) |
+| Лекция 4 | 18.10.2022 | Практические аспекты организации вычисления нейросетей и градиента функции ошибки нейросетей | [видеозапись](https://ml4es.ru/links/ML4ES2-2022-Lect04) |
 
 
 
