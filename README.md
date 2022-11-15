@@ -20,6 +20,7 @@ Machine learning for Earth Sciences F2022-S2023 by [Mikhail Krinitskiy](https://
 | Лекция 4 | 18.10.2022 | Практические аспекты организации вычисления нейросетей и градиента функции ошибки нейросетей | [видеозапись](https://ml4es.ru/links/ML4ES2-2022-Lect04) |
 | Лекция 5 | 01.11.2022 | Оптимизация нейросетей. Свойства ландшафта функции потерь. | [видеозапись](https://ml4es.ru/links/ML4ES2-2022-Lect05) |
 | ДЗ №2 | 11.11.2022 | Реализация многослойного перцептрона на numpy | [Описание ДЗ и данные](https://github.com/MKrinitskiy/ML4ES2-F2022-S2023/tree/master/HW02)<br />[LEADERBOARD](https://github.com/MKrinitskiy/ML4ES2-F2022-S2023/blob/main/HW02/README.md) |
+| Лекция 6 | 11.11.2022 | Оптимизация нейросетей. Алгоритмы оптимизации. | [видеозапись](https://ml4es.ru/links/ML4ES2-2022-Lect06) |
 
 
 
