@@ -23,6 +23,7 @@ Machine learning for Earth Sciences F2022-S2023 by [Mikhail Krinitskiy](https://
 | Лекция 6 | 11.11.2022 | Оптимизация нейросетей. Алгоритмы оптимизации. | [видеозапись](https://ml4es.ru/links/ML4ES2-2022-Lect06) |
 | Лекция 7 | 18.11.2022 | Взрывающиеся градиенты и клиппинг градиентов.<br />Pytorch для построения и оптимизации нейросетей. | [видеозапись](https://ml4es.ru/links/ML4ES2-2022-Lect07)<br />[материалы занятия](https://github.com/MKrinitskiy/ML4ES2-F2022-S2023/tree/master/Lect07) |
 | Лекция 8 | 25.11.2022 | Pytorch для построения и оптимизации нейросетей: практические аспекты.<br />Tensorboard для диагностики и мониторинга процесса обучения нейросетей. | [видеозапись](https://ml4es.ru/links/ML4ES2-2022-Lect08)<br />[материалы занятия](https://github.com/MKrinitskiy/ML4ES2-F2022-S2023/tree/master/Lect08) |
+| Лекция 9 | 09.12.2022 | Оптимизация глубоких нейросетей.<br />Роль начального приближения.<br />Дисперсия карт активаций и варианты инициализации весов, улучшающих сходимость обучения. | [видеозапись - Ч.1 (2021 г.)](https://ml4es.ru/links/ML4ES2-2021-11-09mp4)<br />[материалы занятия - Ч.1 (2021 г.)](https://github.com/MKrinitskiy/ML4ES2-F2021-S2022/tree/master/Lect06)<br />[видеозапись - Ч.2 (2021 г.)](https://ml4es.ru/links/ML4ES2-2021-11-16-Lect07mp4)<br />[материалы занятия - Ч.2 (2021 г.)](https://github.com/MKrinitskiy/ML4ES2-F2021-S2022/tree/master/Lect07) |
 
 
 
