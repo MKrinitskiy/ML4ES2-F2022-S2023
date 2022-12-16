@@ -4,6 +4,8 @@
 
 максимальный номинальный балл = 100.
 
+Дедлайн: **20.12.2022**
+
 Достижения участников:
 
 | Name               | Score | Weighted<br>score | Late<br>days                 | Final<br>score |
