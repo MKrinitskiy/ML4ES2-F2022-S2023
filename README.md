@@ -8,6 +8,16 @@ Machine learning for Earth Sciences F2022-S2023 by [Mikhail Krinitskiy](https://
 [Правила распространения источников](./resources_policy.md)<br />
 
 
+
+
+
+## Зачетная сессия I-го семестра
+
+Состав домашних заданий зафиксирован на двух.
+
+[Здесь](https://github.com/MKrinitskiy/ML4ES2-F2022-S2023/blob/master/leaderboard_1semester.md) приводятся отметки об автозачетах, допуске к зачету и зачетах.
+
+
 -------
 
 | Title | Date | Topic | Content |
