@@ -40,6 +40,8 @@ Machine learning for Earth Sciences F2022-S2023 by [Mikhail Krinitskiy](https://
 | Лекция 11 | 17.02.2023 | Оптимизация глубоких нейросетей.<br />Дисперсия карт активаций;<br />Пакетная нормализация как метод сохранения моментов распределений карт активаций. | [видеозапись](https://ml4es.ru/links/ML4ES2-2023-02-17-Lect11)<br />[материалы занятия](https://github.com/MKrinitskiy/ML4ES2-F2022-S2023/tree/master/Lect11) |
 | Лекция 12 | 24.02.2023 | Оптимизация глубоких нейросетей.<br />Искусственное дополнение данных (data augmentation) как метод зашумления ландшафта функции потерь и повышения объема обучающей выборки. | [видеозапись](https://ml4es.ru/links/ML4ES2-2023-02-24-Lect12)<br />[материалы занятия](https://github.com/MKrinitskiy/ML4ES2-F2022-S2023/tree/master/Lect12) |
 | Лекция 13 | 28.02.2023 | Пакетная нормализация: свойства;<br />Прореживание (Dropout) | [видеозапись](https://ml4es.ru/links/ML4ES2-2023-02-24-Lect13)<br />[материалы занятия](https://github.com/MKrinitskiy/ML4ES2-F2022-S2023/tree/master/Lect13) |
+| Лекция 14 | 07.03.2023 | Функции активации | [видеозапись](https://ml4es.ru/links/ML4ES2-2023-03-07-Lect14)<br />[материалы занятия](https://github.com/MKrinitskiy/ML4ES2-F2022-S2023/tree/master/Lect14) |
+| Лекция 15 | 16.03.2023 | Свёрточные нейронные сети. Операция дискретной свертки.<br />Практика (демонстрация свёрточной операции в коде) | [видеозапись](https://ml4es.ru/links/ML4ES2-2023-03-16-Lect15)<br />[материалы занятия](https://github.com/MKrinitskiy/ML4ES2-F2022-S2023/tree/master/Lect15) |
 
 
 
