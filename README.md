@@ -42,6 +42,8 @@ Machine learning for Earth Sciences F2022-S2023 by [Mikhail Krinitskiy](https://
 | Лекция 13 | 28.02.2023 | Пакетная нормализация: свойства;<br />Прореживание (Dropout) | [видеозапись](https://ml4es.ru/links/ML4ES2-2023-02-24-Lect13)<br />[материалы занятия](https://github.com/MKrinitskiy/ML4ES2-F2022-S2023/tree/master/Lect13) |
 | Лекция 14 | 07.03.2023 | Функции активации | [видеозапись](https://ml4es.ru/links/ML4ES2-2023-03-07-Lect14)<br />[материалы занятия](https://github.com/MKrinitskiy/ML4ES2-F2022-S2023/tree/master/Lect14) |
 | Лекция 15 | 16.03.2023 | Свёрточные нейронные сети. Операция дискретной свертки.<br />Практика (демонстрация свёрточной операции в коде) | [видеозапись](https://ml4es.ru/links/ML4ES2-2023-03-16-Lect15)<br />[материалы занятия](https://github.com/MKrinitskiy/ML4ES2-F2022-S2023/tree/master/Lect15) |
+| Лекция 16 | 21.03.2023 | Различные варианты операции свертки; операции субдискретизации (Pooling).<br />Практика: демонстрация в коде обучения (training) и применения (inference) свёрточной нейросети в задаче распознавания рукописных цифр набора данных MNIST. | [видеозапись](https://ml4es.ru/links/ML4ES2-2023-03-21-Lect16)<br />[материалы занятия](https://github.com/MKrinitskiy/ML4ES2-F2022-S2023/tree/master/Lect16) |
+| Лекция 17 | 28.03.2023 | Развитие архитектур свёрточных нейронных сетей и основные прорывные идеи, заложенные в различных архитектурах.<br />Подход переноса обучения (Transfer Learning) | [видеозапись](https://ml4es.ru/links/ML4ES2-2023-03-28-Lect17)<br />[материалы занятия](https://github.com/MKrinitskiy/ML4ES2-F2022-S2023/tree/master/Lect17) |
 
 
 
