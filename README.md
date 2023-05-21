@@ -47,6 +47,7 @@ Machine learning for Earth Sciences F2022-S2023 by [Mikhail Krinitskiy](https://
 | Лекция 18 | 04.04.2023 | Вычисление градиентов в Pytorch.<br/>Визуализация и интерпретация свёрточных нейронных сетей. | [видеозапись](https://ml4es.ru/links/ML4ES2-2023-04-04-Lect18)<br />[материалы занятия](https://github.com/MKrinitskiy/ML4ES2-F2022-S2023/tree/master/Lect18) |
 | Лекция 19 | 18.04.2023 | Задача снижения размерности.<br />Нейросетевой автокодировщик.<br />Понижающий автокодировщик; шумоподавляющий автокодировщик.<br />Задача выучивания метрики; сиамская сеть; Contrastive Loss, Triplet Loss. | [видеозапись](https://ml4es.ru/links/ML4ES2-2023-04-18-Lect19)<br />[материалы занятия](https://github.com/MKrinitskiy/ML4ES2-F2022-S2023/tree/master/Lect19) |
 | ДЗ №3 | 26.04.2023<br />deadline: **16.05.2023** | Идентификация аномалий с применением свёрточного автокодировщика | [Описание ДЗ](https://github.com/MKrinitskiy/ML4ES2-F2022-S2023/tree/master/HW03)<br />[LEADERBOARD](https://github.com/MKrinitskiy/ML4ES2-F2022-S2023/blob/master/HW03/leaderboard.md) |
+| Лекция 20 | 02.05.2023 | Моделирование последовательностей.<br />Рекуррентные нейронные сети. LSTM. | [видеозапись](https://ml4es.ru/links/ML4ES2-2023-05-02-Lect20)<br />[материалы занятия](https://github.com/MKrinitskiy/ML4ES2-F2022-S2023/tree/master/Lect20) |
 
 
 
