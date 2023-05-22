@@ -19,6 +19,14 @@ Machine learning for Earth Sciences F2022-S2023 by [Mikhail Krinitskiy](https://
 
 [Здесь](https://github.com/MKrinitskiy/ML4ES2-F2022-S2023/blob/master/term1_exam.md) уже сейчас можно ознакомиться со списком вопросов к зачету за первый семестр.
 
+## Зачетная сессия II-го семестра
+
+Состав домашних заданий зафиксирован на одном, [ДЗ №3](https://github.com/MKrinitskiy/ML4ES2-F2022-S2023/tree/master/HW03/).
+
+[Здесь](https://github.com/MKrinitskiy/ML4ES2-F2022-S2023/blob/master/leaderboard_2semester.md) можно посмотреть отметки об автозачетах, допуске к зачету и результатах зачета.
+
+[Здесь](https://github.com/MKrinitskiy/ML4ES2-F2022-S2023/blob/master/term2_exam.md) будет список вопросов к зачету за второй семестр.
+
 
 -------
 
