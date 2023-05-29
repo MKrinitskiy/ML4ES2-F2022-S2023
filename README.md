@@ -25,7 +25,7 @@ Machine learning for Earth Sciences F2022-S2023 by [Mikhail Krinitskiy](https://
 
 [Здесь](https://github.com/MKrinitskiy/ML4ES2-F2022-S2023/blob/master/leaderboard_2semester.md) можно посмотреть отметки об автозачетах, допуске к зачету и результатах зачета.
 
-[Здесь](https://github.com/MKrinitskiy/ML4ES2-F2022-S2023/blob/master/term2_exam.md) будет список вопросов к зачету за второй семестр.
+[Здесь](https://github.com/MKrinitskiy/ML4ES2-F2022-S2023/blob/master/term2_exam.md) можно ознакомиться со списком вопросов к зачету за второй семестр.
 
 
 -------
