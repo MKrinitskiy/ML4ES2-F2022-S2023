@@ -57,6 +57,7 @@ Machine learning for Earth Sciences F2022-S2023 by [Mikhail Krinitskiy](https://
 | ДЗ №3 | 26.04.2023<br />deadline: **16.05.2023** | Идентификация аномалий с применением свёрточного автокодировщика | [Описание ДЗ](https://github.com/MKrinitskiy/ML4ES2-F2022-S2023/tree/master/HW03)<br />[LEADERBOARD](https://github.com/MKrinitskiy/ML4ES2-F2022-S2023/blob/master/HW03/leaderboard.md) |
 | Лекция 20 | 02.05.2023 | Моделирование последовательностей.<br />Рекуррентные нейронные сети. LSTM. | [видеозапись](https://ml4es.ru/links/ML4ES2-2023-05-02-Lect20)<br />[материалы занятия](https://github.com/MKrinitskiy/ML4ES2-F2022-S2023/tree/master/Lect20) |
 | Лекция 21 ([Святослав Елизаров](https://github.com/DukeGonzo)) | 26.05.2023 | Порождающие состязательные сети (Generative adversarial networks, GAN) | [видеозапись](https://ml4es.ru/links/ML4ES2-2023-05-02-Lect21)<br />[материалы занятия](https://github.com/MKrinitskiy/ML4ES2-F2022-S2023/tree/master/Lect21) |
+| Лекция 22 ([Святослав Елизаров](https://github.com/DukeGonzo)) | 06.06.2023 | Порождающие состязательные сети (GAN): расстояние Васерштайна<br />CycleGAN, StyleGAN | [видеозапись](https://ml4es.ru/links/ML4ES2-2023-06-06-Lect22) |
 
 
 
